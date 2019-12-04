@@ -1,0 +1,40 @@
+baseurl = "https://days.19900119.xyz"
+languageCode = "JP"
+defaultContentLanguage = "JP"
+title = "宮田の備忘録"
+theme = "hugo-theme-dream"
+publishDir = "docs"
+
+# copyright = ""
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+[params]
+  background = "black"
+  # backgroundImage = "/me/background.jpg"
+  linkColor = "seagreen"
+
+  author = "Katsutoshi Miyata"
+  # description = ""
+   motto = "It is everywhere you've ever been."
+  # description = ""
+   avatar = "/img/avatar/avatar.PNG"
+  
+  email = "victorymagic36@gmail.com"
+  # github = ""
+  # linkedin = ""
+  # codepen = ""
+  # stackoverflow = ""
+
+  siteStartYear = 2019
+
+  # favicon = "/favicon.ico"
+
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true 
+  dark404Button = true
